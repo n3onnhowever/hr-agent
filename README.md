@@ -19,7 +19,6 @@
 ```bash
 # 1. Клонировать репозиторий
 git clone https://github.com/n3onnhowever/hr-avatar.git
-cd hr-avatar/AI_HRbot-hr-avatar-v2
 
 # 2. Создать и активировать виртуальное окружение
 python -m venv venv
